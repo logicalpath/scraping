@@ -12,6 +12,7 @@ pandas = "*"
 beautifulsoup4 = "*"
 numpy = "*"
 matplotlib = "*"
+lxml = "*"
 
 [requires]
 python_version = "3.6"
